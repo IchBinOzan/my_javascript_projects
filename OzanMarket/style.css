@@ -1,0 +1,20 @@
+/* Yazı tipi */
+.ubuntuStyle {
+    font-family: 'Qwitcher Grypen', cursive;
+    font-size: 35px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: blue;
+    text-align: center;
+}
+
+
+ul { 
+    display:table; margin:0 auto;
+}
+
+/* ortala */
+.ortala {
+    text-align: center;
+}
