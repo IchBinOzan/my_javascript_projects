@@ -1,0 +1,116 @@
+.div1 {
+    width:50%;
+    height: 100px;
+    float: left;
+}
+
+.div2 {
+    width: 50%;
+    height: 100px;
+    float: right;
+}
+
+.signButton {
+    float: right;
+    background-color: rgb(72, 72, 255);
+    color: white;
+    border-radius: 10%;
+}
+
+.appsButtonSvg {
+    width: 3%;
+    float: right;
+    margin-right: 2%;
+}
+
+.hrefImages {
+    float: right;
+    margin-right: 2%;
+    color: black;
+    text-decoration: none;
+}
+
+.div1Elemans {
+    float: left;
+    margin-right: 1%;
+    color: black;
+    text-decoration: none;
+}
+
+.divGoogleLogo {
+    width: 100%;
+    height: 100px;
+    float: left;
+    margin-top: 6%;
+}
+
+.googleLogo {
+    margin-left: 40%;
+}
+
+.divInput {
+    width: 100%;
+    height: 40px;
+    float: left;
+}
+
+.searchInput {
+    margin-top: 0.2%;
+    margin-left: 36%;
+    width: 25%;
+    height: 22px;
+    border-radius: 5px 5px 5px 5px;
+    text-shadow: 0.4px 0.4px 0.4px;
+}
+
+.divButtons {
+    width: 100%;
+    height: 70px;
+    float: left;
+}
+
+.divInButtons {
+    margin-left: 43%;
+    margin-top: 0.7%;
+    border-radius: 2px 2px 2px 2px;
+}
+
+.divBusiness {
+    width: 100%;
+    height: 30px;
+    background-color: rgb(214, 212, 212);
+    float: left;
+    margin-top: 20%;
+}
+
+.divBusinessLeftItems {
+    color: black;
+    text-decoration: none;
+    margin-top: 0.4%;
+    margin-right: 1.5%;
+    float: left;
+}
+
+.divGoogleIconRight {
+    padding-left: 25px;
+    background:url(assets/profilepic.jpg) no-repeat left;
+    background-size: 25px;
+}
+
+.divGoogleIconLeft {
+    padding-left: 25px;
+    background:url(assets/voicelogo.png) no-repeat right;
+    background-size: 25px;
+}
+
+.divBusinessRightItems {
+    color: black;
+    text-decoration: none;
+    margin-top: 0.4%;
+    margin-left: 1.5%;
+    float: right;
+}
+
+.myHoverr:hover {
+    background-color: rgb(208, 208, 208);
+}
